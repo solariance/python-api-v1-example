@@ -1,4 +1,4 @@
-# Solariance API V1 Client
+# Solariance API V1 Client for Python
 
 This repository contains a Python client for interacting with the Solariance API V1. The client is designed to facilitate authentication, retrieve JWT tokens, and fetch forecast power data for a given system ID.
 
